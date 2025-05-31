@@ -1,4 +1,6 @@
-## Hi there, I'm Manu! 👋
+<div align="center">
+  <h1> Hi there, I'm Manu! 👋</h1>
+</div>
 
 🎓 I’ve just finished my Higher Technician in Web Application Development(DAW)  
 💻 Passionate about web development and always eager to learn new technologies  
