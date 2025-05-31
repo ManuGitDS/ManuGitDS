@@ -1,6 +1,6 @@
 ## Hi there, I'm Manu! 👋
 
-🎓 I’ve just finished my *Grado Superior en Desarrollo de Aplicaciones Web (DAW)*  
+🎓 I’ve just finished my Higher Technician in Web Application Development(DAW)  
 💻 Passionate about web development and always eager to learn new technologies  
 🚀 Currently building small projects to grow my skills and explore new tools  
 📚 Learning JavaScript, React, and Git best practices  
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuGitDS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuGitDS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
