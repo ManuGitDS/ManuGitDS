@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Manu! 👋
+
+🎓 I’ve just finished my *Grado Superior en Desarrollo de Aplicaciones Web (DAW)*  
+💻 Passionate about web development and always eager to learn new technologies  
+🚀 Currently building small projects to grow my skills and explore new tools  
+📚 Learning JavaScript, React, and Git best practices  
+🌱 Looking for my first opportunity as a junior web developer  
+
+Thanks for visiting my profile! 😊  
+Feel free to check out my repositories — more coming soon!
 
 <!--
 **ManuGitDS/ManuGitDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
